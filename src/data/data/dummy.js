@@ -629,7 +629,7 @@ export const chatData = [
   {
     image: avatar3,
     message: "New message received",
-    desc: "Salma sent you new message",
+    desc: "Jerry sent you new message",
     time: "11:56 AM",
   },
   {
@@ -640,8 +640,8 @@ export const chatData = [
   },
   {
     image: avatar,
-    message: "Jolly completed tasks",
-    desc: "Assign her new tasks",
+    message: "Michael completed tasks",
+    desc: "Assign him new tasks",
     time: "1:12 AM",
   },
 ];
