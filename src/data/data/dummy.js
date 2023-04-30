@@ -622,8 +622,8 @@ export const cartData = [
 export const chatData = [
   {
     image: avatar2,
-    message: "Roman Joined the Team!",
-    desc: "Congratulate him",
+    message: "Jessica Joined the Team!",
+    desc: "Congratulate her",
     time: "9:08 AM",
   },
   {
